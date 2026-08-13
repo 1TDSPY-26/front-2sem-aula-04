@@ -1,0 +1,21 @@
+{
+  "name": "front-2sem-aula-04",
+  "version": "1.0.0",
+  "description": "Projecto didático da Coleção Vite + React + TypeScript 2026.",
+  "homepage": "https://github.com/1TDSPY-26/front-2sem-aula-04#readme",
+  "bugs": {
+    "url": "https://github.com/1TDSPY-26/front-2sem-aula-04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1TDSPY-26/front-2sem-aula-04.git"
+  },
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
